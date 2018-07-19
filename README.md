@@ -1,2 +1,0 @@
-# jameswyld.github.io
-Pages

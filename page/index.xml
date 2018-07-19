@@ -2,34 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on jameswyld.com</title>
-    <link>http://jameswyld.com/page/</link>
+    <link>https://jameswyld.com/page/</link>
     <description>Recent content in Pages on jameswyld.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 19 Sep 2016 00:58:39 +1000</lastBuildDate>
-    <atom:link href="http://jameswyld.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2016 18:40:40 +1100</lastBuildDate>
     
-    <item>
-      <title>My Work</title>
-      <link>http://jameswyld.com/page/my-work/</link>
-      <pubDate>Mon, 19 Sep 2016 00:58:39 +1000</pubDate>
-      
-      <guid>http://jameswyld.com/page/my-work/</guid>
-      <description>&lt;p&gt;I’m an IT guy, originally from Sydney, Australia.  I first started in the IT industry in 2001, working in corporate IT outsourcing and business systems around Sydney.  In 2007 I moved to Iceland and joined the online PC gaming industry, working at &lt;a href=&#34;http://www.ccpgames.com&#34;&gt;CCP Games&lt;/a&gt;, creators of &lt;a href=&#34;http://www.eve.com&#34;&gt;EVE Online&lt;/a&gt;.  These days I’m back in Sydney where I work at &lt;a href=&#34;http://www.riotgames.com&#34;&gt;Riot Games&lt;/a&gt;, the team behind &lt;a href=&#34;http://www.leagueoflegends.com&#34;&gt;League of Legends&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;At Riot, I work on making sure the player experience is the best it can be, as a part of the Live Services team.  I help look after the health of League&amp;rsquo;s Oceanic servers, and also help the team running our local &lt;a href=&#34;http://oce.lolesports.com/&#34;&gt;Oceanic Pro League&lt;/a&gt;, as well as other eSport events in the region.&lt;/p&gt;
-
-&lt;p&gt;In my past life at CCP I particpated in many aspects of the software development cycle, however my main focus was as a member of the virtual world operations team.  This is the group that keep all of the public facing IT and game systems for CCP running, and it plays a big role in the effort to scale the persistent virtual world behind EVE Online.  Through this work I’ve had exposure to a great number of systems, processes and situations relating to the operation of critical production infrastructure.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://jameswyld.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Twitter</title>
-      <link>http://jameswyld.com/page/twitter/</link>
+      <link>https://jameswyld.com/page/twitter/</link>
       <pubDate>Fri, 04 Nov 2016 18:40:40 +1100</pubDate>
       
-      <guid>http://jameswyld.com/page/twitter/</guid>
+      <guid>https://jameswyld.com/page/twitter/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>My Work</title>
+      <link>https://jameswyld.com/page/my-work/</link>
+      <pubDate>Mon, 19 Sep 2016 00:58:39 +1000</pubDate>
+      
+      <guid>https://jameswyld.com/page/my-work/</guid>
+      <description>I’m an IT guy, originally from Sydney, Australia. I first started in the IT industry in 2001, working in corporate IT outsourcing and business systems around Sydney. In 2007 I moved to Iceland and joined the online PC gaming industry, working at CCP Games, creators of EVE Online. These days I’m back in Sydney where I work at Riot Games, the team behind League of Legends&amp;rdquo;.
+At Riot, I work on making sure the player experience is the best it can be, as a part of the Live Services team.</description>
     </item>
     
   </channel>
